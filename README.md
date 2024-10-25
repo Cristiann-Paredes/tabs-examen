@@ -72,8 +72,34 @@ tab3.page.ts
 
 ![{94B6C1DB-640C-471C-8905-6247CDE4BBD2}](https://github.com/user-attachments/assets/5aafbcd2-cfe2-45f3-9fba-20ea7876ff20)
 
-
+## TAB 4 
 ·       Una pestaña permitira introducir texto y guardarlo localmente en un archivo.
+
+![{2345A678-1D7B-4380-8AAF-583784742618}](https://github.com/user-attachments/assets/df0bd892-74e9-4ca9-b7c9-05e13ebb8f0c)
+
+tab4-routing.module.ts
+![{0C2CFF79-210D-4A82-81FC-15DDA08DD6BD}](https://github.com/user-attachments/assets/72b26fbc-3a72-4d32-90aa-b70b7f7e26c6)
+
+tab4.module.ts
+![{1EECDBC1-0AED-4E08-975D-CFA32BEE562F}](https://github.com/user-attachments/assets/97f2934c-52d7-491e-be4e-103b13c3d8b2)
+
+tab4.page.spec.ts
+![{DE22A180-B7CE-4E07-81E1-3AD030A37F23}](https://github.com/user-attachments/assets/c5506b98-01cb-4b9f-9903-8f2f57864bd7)
+
+tab4.page.ts
+![{1C0DE658-1276-44C0-BE2B-2409F3D9CCF3}](https://github.com/user-attachments/assets/db9e487c-3b94-4d0a-9615-0baf3c60a9ec)
+
+
+
+![{D8C3B9AE-4521-4A9A-90A8-B5E1837F93C6}](https://github.com/user-attachments/assets/9d372531-673a-4613-ac4e-9aa875df3585)
+
+![{67457AD6-1C77-43CA-B3AB-C0B4110A6656}](https://github.com/user-attachments/assets/ff2fa836-ab0a-480f-898f-c498acad297c)
+
+
+
+
+
+
 
 
 
