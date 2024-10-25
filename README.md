@@ -8,7 +8,7 @@ Debe tener 4 pestañas y puede escoger dentro de las siguientes opciones:
 
 ·       Una pestaña debe tener una descripción biográfica del autor, esta pestaña debe tener 15 componentes diferentes.
 
-Descripcion Del autor y componentes 
+## TAB 1 Descripcion Del autor y componentes 
 
 
 # Item 1-2
@@ -39,23 +39,24 @@ Descripcion Del autor y componentes
 ![{BF3C52F3-6175-4B10-80F6-002DCC3439FB}](https://github.com/user-attachments/assets/eedf265f-757a-477b-8aa1-2f3aa143c91a)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## TAB 2 
 
 ·       Una pestaña debe tener su foto y un link que me lleve al repositorio de github de la propia aplicación.
 
+![{2E1C1331-0151-4483-9A85-93C573463B5F}](https://github.com/user-attachments/assets/532735cd-fd56-4815-b7d8-b591b5819c16)
+
+
+
+
+
 ·       Una pestaña debe permitir al usuario ingresar dos fechas a través de datepickers y calcular los días que hay entre ellas.
+
+
+
+
+
+
+
 
 ·       Una pestaña permitirá calcular las raices de una ecuación cuadrática.
 
