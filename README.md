@@ -50,33 +50,39 @@ Debe tener 4 pestañas y puede escoger dentro de las siguientes opciones:
 ·       Una pestaña permitirá calcular las raices de una ecuación cuadrática.
 
 tab3-routing.module.ts
+
 ![{45E337AA-73D0-4563-A9D7-45894B54C171}](https://github.com/user-attachments/assets/29fe8e75-610d-49a1-8814-b57bee04b447)
 
 tab3.module.ts
+
 ![{813E6598-B0EC-4D1A-9A65-669877CA1A22}](https://github.com/user-attachments/assets/7909ff6b-f656-4862-8415-d9af1395b971)
 
 tab3.page.html
-![{00D824FA-D010-47E6-9FC0-A3B4CB0BD206}](https://github.com/user-attachments/assets/8fc3171c-ef31-4ea2-91da-97dfb24bce17)
 
+![{00D824FA-D010-47E6-9FC0-A3B4CB0BD206}](https://github.com/user-attachments/assets/8fc3171c-ef31-4ea2-91da-97dfb24bce17)
 ![{6BCDB7F5-5B9C-48E1-93DA-9B8C4F4F9F76}](https://github.com/user-attachments/assets/ca36f758-799f-4f87-9b5e-9ce38b32a7c6)
 ![{BEE9FBD7-949F-4F12-A213-D4C945CD32AC}](https://github.com/user-attachments/assets/09b19e7c-d284-4261-b8f9-0ffc4adc8daa)
 
 
 tab3.page.spec.ts
+
 ![{54B8EEBE-718A-4829-A523-82BA8601C533}](https://github.com/user-attachments/assets/340d9493-7bc0-4763-842a-a2b39630edf6)
 
 tab3.page.ts
+
 ![{94B6C1DB-640C-471C-8905-6247CDE4BBD2}](https://github.com/user-attachments/assets/5aafbcd2-cfe2-45f3-9fba-20ea7876ff20)
 
 
-
-
-
-
-
-
-
 ·       Una pestaña permitira introducir texto y guardarlo localmente en un archivo.
+
+
+
+
+
+
+
+
+
 
 Se deberá hacer el deploy (apk) y probarlo en su dispositivo móvil o un emulador.
 
