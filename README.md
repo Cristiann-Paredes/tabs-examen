@@ -32,6 +32,13 @@ Descripcion Del autor y componentes
 # Item 10
 ![{1FAD3843-D73B-4708-A2A9-7B132FFA3978}](https://github.com/user-attachments/assets/087306ad-76ce-409d-b3f0-89a2f73dc988)
 
+![{03E8D083-466A-4FF7-B658-C5056A4512D9}](https://github.com/user-attachments/assets/39b839b2-0965-4519-9f21-2b771b421c19)
+
+![{ADB58ECD-2AFD-4BFA-BB46-68B7330BA68E}](https://github.com/user-attachments/assets/5aa69335-2400-44bc-bd6b-360497a43357)
+
+
+
+
 
 
 
