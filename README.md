@@ -44,9 +44,33 @@ Debe tener 4 pestañas y puede escoger dentro de las siguientes opciones:
 ·       Una pestaña debe tener su foto y un link que me lleve al repositorio de github de la propia aplicación.
 
 ![{2E1C1331-0151-4483-9A85-93C573463B5F}](https://github.com/user-attachments/assets/532735cd-fd56-4815-b7d8-b591b5819c16)
-![{2597FA6B-8A2C-4AB4-9C08-4B6D1EDBAD90}](https://github.com/user-attachments/assets/91145f97-2a07-49b6-9fc7-9d2b1dedac1a)
+![{0FF2FE43-2168-4F43-ABF6-CBE6C74B8F54}](https://github.com/user-attachments/assets/3278a27d-007c-4f39-aa09-e6a5d60d86bc)
 
+## TAB 3 
 ·       Una pestaña permitirá calcular las raices de una ecuación cuadrática.
+
+tab3-routing.module.ts
+![{45E337AA-73D0-4563-A9D7-45894B54C171}](https://github.com/user-attachments/assets/29fe8e75-610d-49a1-8814-b57bee04b447)
+
+tab3.module.ts
+![{813E6598-B0EC-4D1A-9A65-669877CA1A22}](https://github.com/user-attachments/assets/7909ff6b-f656-4862-8415-d9af1395b971)
+
+tab3.page.html
+![{00D824FA-D010-47E6-9FC0-A3B4CB0BD206}](https://github.com/user-attachments/assets/8fc3171c-ef31-4ea2-91da-97dfb24bce17)
+
+tab3.page.spec.ts
+![{54B8EEBE-718A-4829-A523-82BA8601C533}](https://github.com/user-attachments/assets/340d9493-7bc0-4763-842a-a2b39630edf6)
+
+tab3.page.ts
+![{94B6C1DB-640C-471C-8905-6247CDE4BBD2}](https://github.com/user-attachments/assets/5aafbcd2-cfe2-45f3-9fba-20ea7876ff20)
+
+
+
+
+
+
+
+
 
 ·       Una pestaña permitira introducir texto y guardarlo localmente en un archivo.
 
