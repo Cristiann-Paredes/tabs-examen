@@ -44,19 +44,7 @@ Debe tener 4 pestañas y puede escoger dentro de las siguientes opciones:
 ·       Una pestaña debe tener su foto y un link que me lleve al repositorio de github de la propia aplicación.
 
 ![{2E1C1331-0151-4483-9A85-93C573463B5F}](https://github.com/user-attachments/assets/532735cd-fd56-4815-b7d8-b591b5819c16)
-
-
-
-
-
-·       Una pestaña debe permitir al usuario ingresar dos fechas a través de datepickers y calcular los días que hay entre ellas.
-
-
-
-
-
-
-
+![{2597FA6B-8A2C-4AB4-9C08-4B6D1EDBAD90}](https://github.com/user-attachments/assets/91145f97-2a07-49b6-9fc7-9d2b1dedac1a)
 
 ·       Una pestaña permitirá calcular las raices de una ecuación cuadrática.
 
