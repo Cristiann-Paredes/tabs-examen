@@ -1,0 +1,31 @@
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ion-img {
+    width: 95%; /* Ajusta el ancho al 100% del contenedor */
+    height: auto; /* Mantiene la relación de aspecto */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+.info-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #d7b1c0;
+}
+
+.hidden-footer {
+    display: none ;
+}
+

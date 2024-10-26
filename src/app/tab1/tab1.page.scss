@@ -1,0 +1,107 @@
+/* CSS pagina 4  */
+ion-header {
+    background-color: #343a40; 
+    font-family: 'Serif'
+}
+  
+  ion-toolbar {
+    --background: #0d3866; 
+    color: white; 
+  }
+  
+  ion-title {
+    font-size: 1.6rem; 
+    font-family: 'Roboto', sans-serif; 
+  }
+  
+  
+  ion-card {
+    margin: 15px;
+    border-radius: 12px; 
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); 
+    transition: transform 0.3s; 
+  }
+  
+  ion-card:hover {
+    transform: scale(1.02); 
+  }
+  
+  ion-card-header {
+    background-color: #5a6572;  
+    color: white; 
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    padding: 16px; 
+  }
+  
+  ion-card-title {
+    font-weight: bold;
+    font-size: 1.4rem; 
+  }
+  
+  ion-list {
+    margin-top: 10px; 
+  }
+  
+  ion-item {
+    --ion-item-background: #ffffff; 
+    --ion-item-border-color: #e0e0e0; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+    margin-bottom: 10px; 
+  }
+  
+  ion-item:hover {
+    background-color: #f1f1f1; 
+  }
+  
+  ion-label {
+    color: #007bff; 
+    font-weight: bold; 
+    font-size: 1rem; 
+  }
+  
+  ion-text {
+    color: #302e2e; /* Color del texto */
+    font-size: 0.95rem; 
+  }
+  
+  
+  ion-note {
+    font-size: 0.85rem; 
+    color: #555a5e; 
+  }
+  
+  /* Button  */
+  ion-button {
+    background-color: #0d3866; 
+    color: white; 
+    border-radius: 8px; 
+    margin-top: 10px; 
+    transition: background-color 0.3s; 
+  }
+  
+  ion-button:hover {
+    background-color: #0056b3; 
+  }
+  
+  
+  @media (max-width: 768px) {
+    ion-card {
+      margin: 5px; 
+    }
+    
+    ion-title {
+      font-size: 1.4rem; 
+    }
+  
+    ion-card-title {
+      font-size: 1.2rem; 
+    }
+
+
+
+    
+  }
+  
+  
